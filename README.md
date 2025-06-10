@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_7705.jpeg" width="160" style="border-radius: 80%; border: 4px solid #4A90E2;" alt="Syrine Hamdouni" />
-</p>
+<table align="center">
+<tr>
+<td>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_7705.jpeg" width="160" style="border-radius: 80%;" alt="Syrine Hamdouni" />
+</p>
 
 <h1 align="center">Hello, I'm Syrine Hamdouni 👋</h1>
 
@@ -58,4 +61,8 @@
 
 ---
 
-> ✨ *“I don’t just write code, I craft memorable user experiences.”* — Syrine 🐼
+> ✨ *“I don’t just write code, I craft memorable user experiences.”* — Syrine 🌸
+
+</td>
+</tr>
+</table>
