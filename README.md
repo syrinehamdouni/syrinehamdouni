@@ -2,24 +2,24 @@
   <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_7705.jpeg" width="160" style="border-radius: 50%" alt="Syrine Hamdouni" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Syrine Hamdouni</h1>
+<h1 align="center">Hello, I'm Syrine Hamdouni 👋</h1>
 
 <p align="center">
-  🎓 Étudiante en ingénierie informatique | 🌐 Développement Web & Mobile | 🤖 Data Science & IA
+  🎓 Computer Engineering Student | Specializing in Data Science & Artificial Intelligence
 </p>
 
 ---
 
-### 🌟 À propos de moi
+### About Me
 
-- 👩‍💻 Étudiante à **TEK-UP**, spécialisée en **Data Science & Intelligence Artificielle**
-- 💙 Passionnée par le développement **Mobile** & **Web**
-- 🎯 Objectif : Créer des solutions **belles**, **complètes** et **intelligentes**
-- ✨ J’aime allier **technologie**, **design** et **expérience utilisateur**
+- 👩‍💻 Currently studying at **TEK-UP**, passionate about **Data Science**, **Artificial Intelligence**, and **Mobile & Web Development**
+- 💡 I design innovative, elegant, and efficient solutions combining technology and user experience
+- 🎯 My goal is to build complete, user-friendly, and intelligent applications
+- ✨ I love blending thoughtful design with advanced technologies
 
 ---
 
-### 🛠️ Technologies & Outils
+### Technical Skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -32,19 +32,29 @@
 
 ---
 
-### 📈 Stats GitHub (animation automatique)
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syrinehamdouni&show_icons=true&theme=radical" alt="Syrine's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syrinehamdouni&show_icons=true&theme=radical" alt="Syrine's GitHub Stats" />
 </p>
 
 ---
 
-### 📫 Me contacter
+### Contact Me
 
-- 📧 hamdounisyrin@gmail.com  
-- 💼 [LinkedIn (ajoute ton lien si tu veux)](https://www.linkedin.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/syrine-hamdouni-049248299/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/syrinehamdouni" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:hamdounisyrin@gmail.com">hamdounisyrin@gmail.com</a>
+</p>
 
 ---
 
-> ✨ *“Je ne code pas juste des lignes, je construis des expériences.”* — Syrine 🌸
+> ✨ *“I don’t just write code, I craft memorable user experiences.”* — Syrine 🌸
