@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_7705.jpeg" width="160" style="border-radius: 50%;" alt="Syrine Hamdouni" />
+  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_7705.jpeg" width="160" style="border-radius: 80%;" alt="Syrine Hamdouni" />
 </p>
 
 
