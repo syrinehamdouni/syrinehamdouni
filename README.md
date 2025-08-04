@@ -3,7 +3,7 @@
 <td>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/IMG_770.jpg" width="160" style="border-radius: 80%;" alt="Syrine Hamdouni" />
+  <img src="https://raw.githubusercontent.com/syrinehamdouni/syrinehamdouni/main/syrine.jpg" width="160" style="border-radius: 80%;" alt="Syrine Hamdouni" />
 </p>
 
 <h1 align="center">Hello, I'm Syrine Hamdouni 👋</h1>
